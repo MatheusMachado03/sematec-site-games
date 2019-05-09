@@ -123,5 +123,12 @@
                 <img src="google+.png" alt="google plus" width="40px" height="40px">
             </div>
 </section>
+<footer>
+    <div class="footer">
+        <small>
+            © Copyright Games 2019
+        </small>
+    </div>   
+</footer>
 </body> 
 </html>
